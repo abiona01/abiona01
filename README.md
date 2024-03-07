@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Adewemimo Abiona
+### I'm Abiona Quadrat Adewemimo
 
 Welcome to my github 😃
 
