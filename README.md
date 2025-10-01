@@ -4,9 +4,8 @@
 
 Welcome to my github 😃
 
-I'm a frontend web developer using Reactjs/NextJS
+I'm a frontend web developer using Reactjs and other react-dependent frameworks such as Nexts and Astro
 
-I also do backend with NodeJs
 
 ##### 📫 feel free to send a mail to [quadratwemimo@gmail.com](mailto:quadratwemimo@gmail.com)
 
